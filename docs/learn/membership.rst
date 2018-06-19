@@ -52,5 +52,5 @@ Restricting Access
 
 To restrict Team access, go to Organization Settings and flip the “Open Membership” toggle. 
 
-.. image:: img/membership%20toggle.png
+.. image:: img/membership_toggle.png
 
