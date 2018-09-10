@@ -1,5 +1,5 @@
 - name: Browser
-  link: _documentation/platforms/javascript/browser.md
+  link: _documentation/platforms/javascript/javascript.md
   platformicon: javascript
 
 - name: Vue
